@@ -4,7 +4,7 @@
 :bulb: to Life!
     
 ### Mission 
-    Meeting Customer Requirements through Inovative Solutions
+Meeting customer requirements through inovative solutions.
 
 ### Project Description 
 
