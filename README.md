@@ -7,7 +7,7 @@
 "Meeting customer requirements through innovative solutions."
 
 ### About Us
-Octabot is a startup company that will shine very soon in the market. Our first project will be...
+Octabot is a software startup company that will shine very soon in the market. Our first project will be...
 
 | **The Founders** |
 | -----------------------|
