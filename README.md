@@ -1,12 +1,12 @@
 # Octabot
 
-## Vision
+### Vision
     Ideas to Life
     
-## Mission 
-Meeting Customer Requirements through Inovative Solutions
+### Mission 
+    Meeting Customer Requirements through Inovative Solutions
 
-## Project Description 
+### Project Description 
 
 | **Team Members** |
 | -----------------------|
