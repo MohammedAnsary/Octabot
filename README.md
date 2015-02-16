@@ -14,3 +14,4 @@ Meeting customer requirements through innovative solutions.
 | Mina Hany  |
 | Omar El-hariry |
 | Andrew Magdy |
+| Bassem Magdy |
