@@ -1,7 +1,7 @@
 # Octabot
-# Vision
-# Mission
-# Project Description
+## Vision
+## Mission
+## Project Description
 | **Team Members** |
 | -----------------------|
 | Mohammed El-Ansary  |
