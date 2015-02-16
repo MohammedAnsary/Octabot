@@ -4,7 +4,7 @@
 # Project Description
 
 #**Team Members**
-| ------------------- | 
+
 | Mohammed El-Ansary  |
 | Bassem Magdy  |
 | Mohab Ashraf  | 
