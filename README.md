@@ -1,8 +1,8 @@
 # Octabot
 ## Vision
 ## Mission
-## Project Description
-  +Msh wordspace
+ Project Description
+##  +Msh wordspace
 
 | **Team Members** |
 | -----------------------|
