@@ -2,10 +2,7 @@
 # Vision
 # Mission
 # Project Description
-
-#**Team Members**
-
-|			 |
+| **Team Members** |
 | -----------------------|
 | Mohammed El-Ansary  |
 | Bassem Magdy  |
