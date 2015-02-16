@@ -1,7 +1,7 @@
 # Octabot
 
 ### Vision
-    :bulb: to Life!
+:bulb: to Life!
     
 ### Mission 
     Meeting Customer Requirements through Inovative Solutions
