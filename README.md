@@ -7,4 +7,4 @@
 | Andrew Magdy |
 | Mayar Bassel |
 | Mina Hany |
-| omar Essam |
+| Omar Essam |
