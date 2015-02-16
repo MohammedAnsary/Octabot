@@ -10,11 +10,3 @@ Meeting customer requirements through innovative solutions.
 
 | **Team Members** |
 | -----------------------|
-| Mohammed El-Ansary  |
-|  Bassem Magdy  |
-| Andrew Magdy |
-| Mayar Bassel |
-| Mina Hany |
-| Omar Essam |
-| Omar El-hariry |
-| Mohab Ashraf  |
