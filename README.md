@@ -8,7 +8,7 @@
 
 ### Project Description 
 
-| **Team Members** |
+| **Our Founders** |
 | -----------------------|
 | Mohammed El-Ansary  |
 | Mayar Bassel |
