@@ -1,3 +1,5 @@
+# Vision
+# Mission
 # Octabot
 | **Team Members**  | 
 | ------------------- | 
