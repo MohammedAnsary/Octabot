@@ -6,7 +6,8 @@
 ### Mission
 "Meeting customer requirements through innovative solutions."
 
-### Project Description 
+### About Us
+Octabot is a startup company that will shine very soon in the market. Our first project will be...
 
 | **The Founders** |
 | -----------------------|
