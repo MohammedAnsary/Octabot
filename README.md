@@ -11,3 +11,4 @@ Meeting customer requirements through innovative solutions.
 | **Team Members** |
 | -----------------------|
 | Mohammed El-Ansary  |
+| Andrew Magdy |
