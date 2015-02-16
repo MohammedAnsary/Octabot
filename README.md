@@ -16,5 +16,5 @@ Meeting customer requirements through innovative solutions.
 | Mayar Bassel |
 | Mina Hany |
 | Omar Essam |
+| Omar El-hariry |
 | Mohab Ashraf  |
-| Omar el hariry | 
