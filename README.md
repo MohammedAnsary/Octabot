@@ -1,9 +1,9 @@
 # Octabot
 | **Team Members**  | 
 | ------------------- | 
-| Mohab Ashraf  | 
+| Mohammed El-Ansary  |
 | Bassem Magdy  |
-| Mohammed El-Ansary  | 
+| Mohab Ashraf  | 
 | Andrew Magdy |
 | Mayar Bassel |
 | Mina Hany |
