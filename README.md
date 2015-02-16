@@ -1,7 +1,9 @@
+# Octabot
 # Vision
 # Mission
-# Octabot
-| **Team Members**  | 
+# Project Description
+
+#**Team Members**
 | ------------------- | 
 | Mohammed El-Ansary  |
 | Bassem Magdy  |
@@ -10,3 +12,4 @@
 | Mayar Bassel |
 | Mina Hany |
 | Omar Essam |
+
