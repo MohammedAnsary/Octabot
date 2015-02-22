@@ -1,0 +1,96 @@
+<% provide(:title, @user.name) %>
+<div class="row">
+<div class= "col-md-9">
+<div class="container">
+    <h1 class="text-primary"><span class="glyphicon glyphicon-user"></span>User Profile</h1>
+      <hr>
+	<div class="well">
+	<div class="row">
+      <div class="col-md-3">
+        <div class="text-center">
+          <img src="//placehold.it/100" class="avatar img-circle" alt="avatar">
+        </div>
+      </div>
+      
+      <!-- edit form column -->
+      <div class="col-md-9 personal-info">
+        <h3>Personal info</h3>
+        
+        <form class="form-horizontal" role="form">
+          <div class="form-group">
+            <label class="col-lg-4 control-label"><span class="glyphicon glyphicon-user"></span> Name:</label><%= @user.name %>
+            
+          </div>
+          <div class="form-group">
+            <label class="col-lg-4 control-label"><i class="glyphicon glyphicon-envelope"></i> Email:</label><%= @user.email %>
+            
+     		
+            
+          </div>
+   <div class="form-group">
+            <label class="col-lg-4 control-label"><i class="glyphicon glyphicon-edit"></i> Signature:</label><%= @user.signature %>
+          
+             
+           
+          </div>
+        </form>
+      </div>
+  </div>
+ 
+</div>
+
+<%= link_to '<span class="glyphicon glyphicon-arrow-left"></span>'.html_safe, posts_path, class: "btn btn-success" %>
+ <%= link_to 'Edit Info', edit_user_path, class:"btn btn-primary"%> 
+</div>
+
+
+
+>
+</div>
+<div class="col-md-3">
+<div class="container">
+<div class=categories>
+
+<div class="well">
+<h3> Categories </h3>
+<div class="row" >
+<div class="col-md-10">
+<% @categories.each do |c| %>
+		<%= link_to c.name,categories_path(:name => c.name) %>
+	<% end %>
+</div>
+</div>
+</div>
+
+<div class="userpanel">
+	<div class="well">
+	<% if current_user !=nil %>
+	 <h4><%= link_to current_user.name, User.find(current_user.id) %></h4>
+		<% if current_user.is_admin %>
+	    <%= link_to 'Post', new_post_path, class:"btn btn-success"%> 
+		<% end %>
+	  <%= link_to '<span class="glyphicon glyphicon-log-out"></span>'.html_safe, destroy_user_session_path, :method => :delete, class: "btn btn-danger" %>
+	<% else %>
+	<%= link_to "sign in" , new_user_session_path,class:"btn btn-primary"  %>  <%= link_to "Sign up" , new_user_registration_path, class:"btn btn-success" %>
+	<% end %>
+</div>	
+
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
