@@ -56,14 +56,16 @@ ActiveRecord::Schema.define(version: 20150222205352) do
   end
 
   create_table "posts", force: :cascade do |t|
+    t.integer  "user_id"
     t.string   "category"
     t.string   "title"
     t.text     "content"
     t.datetime "timing"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.integer  "user_id"
   end
+
+  add_index "posts", ["user_id"], name: "index_posts_on_user_id"
 
   create_table "users", force: :cascade do |t|
     t.string   "email",                  default: "",    null: false
@@ -78,7 +80,7 @@ ActiveRecord::Schema.define(version: 20150222205352) do
     t.string   "last_sign_in_ip"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.boolean  "admin"
+    t.boolean  "admin",                  default: false
     t.string   "username"
     t.string   "url"
     t.string   "sinature"
